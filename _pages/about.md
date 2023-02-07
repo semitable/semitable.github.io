@@ -23,4 +23,6 @@ My PhD research is in the area of Multi-Agent Deep Reinforcement Learning. In pa
 
 I am the author and maintainer of the [Multi-Robot Warehouse](https://www.github.com/semitable/robotic-warehouse) environment for multi-agent RL research. I also developed and maintain the Python version of [Level-based Foraging](https://www.github.com/semitable/lb-foraging). Our group has been using both environments to develop new and exciting algorithms for MARL. I am the first author of two such algorithms: Shared Experience Actor-Critic (SEAC), and Selective Parameter Sharing (SePS) that have been published in NeurIPS (2020) and ICML (2021) respectively.
 
+Finally, I am a co-author of [E-PyMARL](https://github.com/uoe-agents/epymarl), a library for MARL which has been widely used by the community.
+
 Keywords: Machine Learning, Deep Reinforcement Learning (RL), Multi-agent Systems, Exploration in RL.
