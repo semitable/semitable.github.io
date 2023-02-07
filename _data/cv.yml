@@ -1,97 +1,134 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Robotics and Autonomous Systems
+      institution: University of Edinburgh
+      year: 2019-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Researching deep multi-agent reinforcement learning with emphasis on exploration under sparse rewards. Advisor: Dr. Stefano Albrecht."
+        - "Published my research as a first author in machine learning conferences such as NeurIPS and ICML"
+    - title: Master of Science in Robotics and Autonomous Systems
+      institution: University of Edinburgh & Heriot-Watt University
+      year: 2018-2019
       description:
-        - Description 1.
-        - Description 2.
+        - Studied courses such as Machine Learning and Pattern Recognition, Reinforcement Learning, and Robotics.
+        - "Thesis on \"Exploration in Deep Multi-Agent Reinforcement Learning\". Advisors: Dr. Stefano Albrecht and Dr. Frank Broz."
+    - title: Electronic and Computer Engineering
+      institution: Technical University of Crete, Greece
+      year: 2009-2017
+      description:
+        - 5-year diploma degree with Bachelors and integrated MSc
+        - Studied core courses on Computer Science, Electronics, and Telecommunications.
+        - Followed elective courses focused on Artificial Intelligence, Game Theory, and Multi-Agent Systems.
+        - "Thesis on \"Employing Hypergraphs for Efficient Coalition Formation with Application to the V2G Problem\". Was awarded full marks and led to peer reviewed publication. Advisor: Dr. Georgios Chalkiadakis."
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: "Author"
+      institution: "Multi-Agent Reinforcement Learning: An Introduction"
+      year: 2022-2023 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Received 4 months of funding to complete a textbook on MARL.
+        - Under contract with MIT Press for publication. 
+    - title: Research Scientist Intern
+      institution: NVIDIA
+      year: 2022 (Summer)
       description:
-        - Description 1.
-        - Description 2.
+        - Worked with the Autonomous Vehicles (AVs) research group. The project involved reasoning with occlusions. We developed a method for generating plausible vehicle trajectories in occluded spaces with a variational autoencoder and including them in a downstream planning pipeline.
+        - My work on reasoning with occlusions was published in ICRA 2023.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Teaching Assistant
+      institution: University of Edinburgh
+      year: 2020 - Present
       description:
+        - I delivered the lectures on Deep Reinforcement Learning I & II.
+        - Designed and was responsible for the coursework assignment.
+        - Marked assignment and final exams.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Assistant
+      institution: ENECIA
+      year: 2017 - 2018
+      description:
+        - Developed tools for smart cities, including power-consumption prediction models, and policies for electric vehicle charging. Part of my work has been peer-reviewed and published in journals.
+        - I was responsible for system administration tasks for cloud infrastructure (AWS), including management of computing resources and databases.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Game Developer
+      institution: 
+      year: 2015 - 2017
+      description:
+        - I led the development of a sci-fi strategy video game. My work included C++ coding with which I programmed procedural creation of 3D meshes, simulations of planet tectonics and climate, and the game's artificial intelligence.
+        - Developed two profitable projects that were released in the Unreal Engine Marketplace.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Areas of Expertise
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "My PhD research is in the area of Multi-Agent Deep Reinforcement Learning. In particular, I study how multiple agents can benefit from homogeneity and efficiently explore in environments with sparse rewards. My main research interests are: Machine Learning, Reinforcement Learning, Multi-Agent Systems, Deep Learning, Unsupervised Learning."
+    - "I am interested in both single and multi-agent applications of reinforcement learning; the application of deep networks and deep learning in reinforcement learning; and the use of unsupervised learning (e.g. variational auto-encoders) for opponent modelling, or learning state representations."
+    - "I have worked with several programming languages including (but not limited to): Python, C, C++, MATLAB, JavaScript"
+    - "In my work I have extensively used the following technologies and frameworks: PyTorch, NumPy, SciPy, Amazon Web Services (AWS), OpenAI's Gym, MongoDB, pandas, Git."
+    - "I have also been performing Linux system administration tasks (e.g. Bash scripting, security, Slurm cluster management, webhosting support, and more)."
+
+- title: Additional Activities - Reviewing
+  type: time_table
+  contents:
+    - title: NeurIPS, AAMAS, ICLR (highlighted reviewer)
+      institution:
+      year: 2022 
+      description: 
+    - title: MRS, IROS, TPAMI, ICLR, AAMAS 
+      institution:
+      year: 2021 
+      description:
+    - title: TPAMI, ICML, NeurIPS
+      institution:
+      year: 2020
+      description:
+
+- title: Additional Activities - Presenting
+  type: time_table
+  contents:
+    - title: Gave seminar at <a href=https://motion2ai.com/>Motion2AI</a>.
+      year: 2023
+    - title: Presented in <a href=https://sites.google.com/view/berkeleymarl/home>Berkeley's Multi-Agent Learning Seminar group</a>.
+      year: 2022
+    - title: Regular Presenter, Reinforcement Learning Reading Group, University of Edinburgh.
+      year: 2018 - Present
+    - title: EdIntelligence, Invited to present at Mini NeurIPS event.
+      year: 2020
+    - title: Student Presenter, CDT-RAS annual conference. 
+      year: 2019 - 2020
+    - title: Presented open/free software technologies in local outreach program, Crete, Greece.
+      year: 2013
+    - title: Conducted seminar sessions on Linux, EL/LAK association.
+      year: 2012 - 2013
+- title: Volunteering, Awards, and Other
+  type: time_table
+  contents:
+    - title: Thesis abstract accepted at AAMAS2022 doctoral consortium.
+      year: 2022
+    - title: "Co-supervised MSc dissertation project on \"Starcraft II Lite Environment For Multi-Agent Reinforcement Learning Research\", University of Edinburgh."
+      year: 2022
+    - title: "Co-supervised MSc dissertation project on \"Revisiting the Gumbel Softmax in MADDPG\", University of Edinburgh."
+      year: 2022
+    - title: "Co-supervised MSc dissertation project on \"Multi-Agent Deep Reinforcement Learning: Revisited MADDPG\", University of Edinburgh."
+      year: 2021
+    - title: Honorable mention (2nd best paper) AAMAS Workshop in Adaptive and Learning Agents for Graph-based Policy Learning. 
+      year: 2022
+    - title: System administration tasks (Linux, Slurm) for research group server.
+      year: 2020 - Present
+    - title: DriveML Huawei Autonomous Vehicles Challenge, awarded 4th Place, London.
+      year: 2019
+    - title: Awarded fully funded scholarship for MSc and PhD studies (EPSRC CDT-RAS.)
+      year: 2018
+    - title: Awarded Ridley Fellowship from Newcastle University (declined).
+      year: 2018
+    - title: Volunteer, European Agent Systems Summer School, Greece.
+      year: 2018
+    - title: Won competition of the Artificial Intelligence class in Technical University of Crete (best agent in a variation of the checkers game).
+      year: 2014
+    - title: Advocate and Organiser of EL/LAK association (Free/Open Source Software).
+      year: 2009 - 2013
+    - title: Finalist in the Pan-Hellenic computer science competition.
+      year: 2008

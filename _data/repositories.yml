@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - semitable
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - semitable/fast-marl
+  - uoe-agents/epymarl
+  - semitable/lb-foraging
+  - semitable/robotic-warehouse
+  - semitable/seac
+  - semitable/seps
+  - semitable/easing-functions

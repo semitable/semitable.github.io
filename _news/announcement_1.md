@@ -1,7 +1,7 @@
 ---
-layout: post
-date: 2015-10-22 15:59:00-0400
+title: SEAC at NeurIPS
+date: 2020-12-08 16:11:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+:newspaper_roll:    Our paper, [Shared Experience Actor-Critic for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2006.07169), has been accepted and published in Neural Information Processing Systems (NeurIPS 2020).
