@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Previously at [NVIDIA Research](https://nvr-avg.github.io/). 
 
-I am a PhD student in the [CDT for Robotics and Autonomous Agents](https://www.edinburgh-robotics.org/), advised by [Stefano Albrecht](https://agents.inf.ed.ac.uk/stefano-albrecht/) ([University of Edinburgh](https://www.ed.ac.uk/informatics)) and a member of the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/). 
+I am in the final stages of my PhD in the [CDT for Robotics and Autonomous Agents](https://www.edinburgh-robotics.org/), advised by [Stefano Albrecht](https://agents.inf.ed.ac.uk/stefano-albrecht/) ([University of Edinburgh](https://www.ed.ac.uk/informatics)) and a member of the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/). 
 
 My PhD research is in the area of Multi-Agent Deep Reinforcement Learning. In particular, I study how multiple agents can efficiently explore and learn in environments with sparse rewards.
 
