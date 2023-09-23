@@ -17,8 +17,6 @@ social: true  # includes social icons at the bottom of the page
 
 Previously at [University of Edinburgh](https://www.ed.ac.uk/informatics) and [NVIDIA Research](https://nvr-avg.github.io/). 
 
-> We are looking for interns! If you are interested in MARL or LLMs (or their intersection) and have at least a publication in a top-tier conference, drop me an email.
-
 I completed my PhD in the [CDT for Robotics and Autonomous Agents](https://www.edinburgh-robotics.org/), advised by [Stefano Albrecht](https://agents.inf.ed.ac.uk/stefano-albrecht/) in the ([University of Edinburgh](https://www.ed.ac.uk/informatics)) as a member of the [Autonomous Agents Research Group](https://agents.inf.ed.ac.uk/). 
 
 I am working on Multi-Agent Deep Reinforcement Learning. I am co-author of the [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](http://www.marl-book.com) textbook which serves as an introduction to MARL. Online version of the book is available for free!
