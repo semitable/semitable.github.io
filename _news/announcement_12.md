@@ -1,4 +1,3 @@
-
 ---
 title: Intrinsic Language-Guided Exploration for Complex Long-Horizon Robotic Manipulation Tasks at ICRA
 date: 2024-01-01 17:20:00-0400
